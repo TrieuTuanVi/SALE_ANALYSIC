@@ -39,16 +39,16 @@ File dữ liệu thô gồm 2 Sheet:
 Ở sheet Calculate, tạo các hàm tính toán các chỉ số cần thiết phục vụ cho phần vẽ biểu đồ ở bước tiếp theo ở sheet Dashboard. 
 ### 3. Vẽ biểu đồ và tạo Dashboard hoàn thiện
 Các biểu đồ cần có:
-- Bộ lọc (Filters)
+- **Bộ lọc (Filters)**
   + Year: Lọc theo năm
   + Month: Lọc theo tháng trong năm
   + Hình thức bán
   + Phương thức thanh toán
-- Chỉ số tổng quan (KPIs)
+- **Chỉ số tổng quan (KPIs)**
   + Doanh thu
   + Lợi nhuận
   + % Lợi nhuận
-- Biểu đồ
+- **Biểu đồ**
   + Monthly Bar Chart: Hiển thị doanh thu, lợi nhuận và tỷ lệ lợi nhuận theo từng tháng
   + Daily Area Chart: Biểu đồ theo ngày giúp theo dõi xu hướng biến động trong tháng
   + Top sản phẩm: Liệt kê sản phẩm có doanh số cao nhất
@@ -59,6 +59,6 @@ Các biểu đồ cần có:
 
   ---
   
-## Dashboard hoàn thiện 
+## 📊 Dashboard hoàn thiện 
 
 ![image](https://github.com/user-attachments/assets/fdc62780-9f36-4a15-b93e-c0e6ad90e96e)
