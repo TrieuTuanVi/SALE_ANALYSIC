@@ -25,16 +25,17 @@ File dữ liệu thô gồm 2 Sheet:
 
 ## ⚙️ Các bước thực hiện 
 
-1.Chuẩn bị dữ liệu.
-    - Lấy các cột: Sản Phẩm, Danh Mục, Đơn Vị, Giá Mua và Giá Bán ở sheet **Data** sang sheet **Sale** bằng hàm **VLOOKUP**
-    - Tạo thêm các cột mới:
-          + Tiền mua
-          + Tiền bán
-          + Day
-          + Month
-          + Year
-- Lấy dữ liệu cần thiết.
-- Tính toán các chỉ số cần thiết và phân tích. 
-- Vẽ biểu đồ và tạo Dashboard hoàn thiện.
+### 1. Chuẩn bị dữ liệu
+- Lấy các cột: Sản Phẩm, Danh Mục, Đơn Vị, Giá Mua và Giá Bán ở sheet **Data** sang sheet **Sale** bằng hàm **VLOOKUP**.
+- Tạo thêm các cột mới:
+  + Tiền mua = Số Lượng * Tiền Mua
+  + Tiền bán = Số Lượng * Tiền Bán * (100% - Giảm Giá)
+  + Day = DAY(Ngày)
+  + Month = TEXT(Ngày, "mmm"), cột tháng sẽ hiển thị dưới dạng 3 chữ cái đầu trong Tiếng Anh. 
+  + Year = YEAR(Ngày)
+- Tạo thêm 2 sheet: Calculate(chứa các phần tính toán) và Dashboard(vẽ biểu đồ và dashboard hoàn chỉnh).
+### 2. Lấy dữ liệu cần thiết
+### 3. Tính toán các chỉ số cần thiết và phân tích 
+### 4. Vẽ biểu đồ và tạo Dashboard hoàn thiện.
   
 ## 1. Giới Thiệu Về File hoàn thiện
