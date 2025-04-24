@@ -33,9 +33,9 @@ File dữ liệu thô gồm 2 Sheet:
   + **Day** = DAY(Ngày)
   + **Month** = TEXT(Ngày, "mmm"), cột tháng sẽ hiển thị dưới dạng 3 chữ cái đầu trong Tiếng Anh. 
   + **Year** = YEAR(Ngày)
-- Tạo thêm 2 sheet: Calculate(chứa các phần tính toán) và Dashboard(vẽ biểu đồ và dashboard hoàn chỉnh).
-### 2. Lấy dữ liệu cần thiết
-### 3. Tính toán các chỉ số cần thiết và phân tích 
-### 4. Vẽ biểu đồ và tạo Dashboard hoàn thiện.
+- Tạo thêm 2 sheet: **Calculate**(chứa các phần tính toán) và **Dashboard**(vẽ biểu đồ và dashboard hoàn chỉnh).
+### 2. Tính toán các chỉ số cần thiết và phân tích 
+Ở sheet Calculate, tạo các hàm tính toán các chỉ số cần thiết phục vụ cho phần vẽ biểu đồ ở bước tiếp theo ở sheet Dashboard. 
+### 3. Vẽ biểu đồ và tạo Dashboard hoàn thiện.
   
 ## 1. Giới Thiệu Về File hoàn thiện
