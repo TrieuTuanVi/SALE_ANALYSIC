@@ -1,6 +1,13 @@
 # [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) SALE ANALYSIS EXCEL DASHBOARD 
 
 ---
+
+## 🎯 Mục tiêu Dự án (Project Objective)
+
+Mục tiêu của dự án là xây dựng một bảng điều khiển tương tác (dashboard) nhằm đánh giá hiệu quả hoạt động kinh doanh thông qua các chỉ số như doanh thu, lợi nhuận và tỷ lệ lợi nhuận để xác định các sản phẩm và danh mục nổi bật từ đó có thể tối ưu hóa quyết định quản lý nhờ trực quan hóa dữ liệu dễ hiểu và cập nhật theo thời gian.
+  
+---
+
 ## 📁 Dữ liệu
 
 File dữ liệu thô gồm 2 Sheet:
@@ -62,3 +69,9 @@ Các biểu đồ cần có:
 ## 📊 Dashboard hoàn thiện 
 
 ![image](https://github.com/user-attachments/assets/fdc62780-9f36-4a15-b93e-c0e6ad90e96e)
+
+---
+
+## ✅ Kết luận
+Dự án đã hoàn thành thành công việc xây dựng một dashboard phân tích bán hàng trực quan, cho phép người dùng ra quyết định hữu ích, giúp nhà quản lý nâng cao hiệu suất và lợi nhuận, đồng thời tối ưu hóa chiến lược kinh doanh dựa trên dữ liệu thực tế.
+
