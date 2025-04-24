@@ -25,14 +25,14 @@ File dữ liệu thô gồm 2 Sheet:
 
 ## ⚙️ Các bước thực hiện 
 
-- Chuẩn bị dữ liệu.
-    + Lấy các cột: Sản Phẩm, Danh Mục, Đơn Vị, Giá Mua và Giá Bán ở sheet **Data** sang sheet **Sale** bằng hàm **VLOOKUP**
-    + Tạo thêm các cột mới:
-          * Tiền mua
-          * Tiền bán
-          * Day
-          * Month
-          * Year
+1.Chuẩn bị dữ liệu.
+    - Lấy các cột: Sản Phẩm, Danh Mục, Đơn Vị, Giá Mua và Giá Bán ở sheet **Data** sang sheet **Sale** bằng hàm **VLOOKUP**
+    - Tạo thêm các cột mới:
+          + Tiền mua
+          + Tiền bán
+          + Day
+          + Month
+          + Year
 - Lấy dữ liệu cần thiết.
 - Tính toán các chỉ số cần thiết và phân tích. 
 - Vẽ biểu đồ và tạo Dashboard hoàn thiện.
