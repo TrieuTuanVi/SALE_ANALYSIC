@@ -23,13 +23,11 @@ File dữ liệu thô gồm 2 Sheet:
     - **Sheet Dashboard** để trực quan hóa các biểu đồ báo cáo dạng động. 
 
 
+## ⚙️ Các bước thực hiện 
 
-## ⚙️ Các bớc thực hiện 
-
-- Chuẩn bị dữ liệu đầy đủ
-
-- Phân tích và lấy dữ liệu cần thiết
-
-- Vẽ biểu đồ và tạo Dashboard hoàn thiện
-- 
+- Chuẩn bị dữ liệu. 
+- Lấy dữ liệu cần thiết.
+- Tính toán các chỉ số cần thiết và phân tích. 
+- Vẽ biểu đồ và tạo Dashboard hoàn thiện.
+  
 ## 1. Giới Thiệu Về File hoàn thiện
