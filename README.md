@@ -5,7 +5,7 @@
 
 File dữ liệu thô gồm 2 Sheet:
 
-+ Sheet Data gồm:
++ **Sheet Data** bao gồm:
     - Mã SP
       
     - Sản Phẩm
@@ -18,7 +18,8 @@ File dữ liệu thô gồm 2 Sheet:
       
     - Giá Bán
       
-+ Sheet Sale:
++ **Sheet Sale** bao gồm:
+
     - Mã SP
     
     - Số Lượng
@@ -28,7 +29,12 @@ File dữ liệu thô gồm 2 Sheet:
     - Bán	Thanh Toán
     
     - % Giảm Giá
+ 
++ Tạo thêm 2 Sheet mới:
 
+      - **Sheet Calculate** bao gồm các phần tính toán, chủ yếu là các phần Pivot Table.
+
+      - **Sheet Dashboard** để trực quan hóa các biểu đồ báo cáo dạng động. 
 
 
 
